@@ -1,0 +1,391 @@
+
+
+--------------2018-01-04 08:20:44.633000
+Overall Accuracy is 96.98
+
+
+--------------2018-01-04 08:21:19.032000
+Overall Accuracy is 96.98
+
+
+--------------2018-01-04 08:22:45.467000
+Overall Accuracy is 96.98
+
+
+--------------2018-01-04 08:22:47.143000
+Overall Accuracy is 96.98
+
+
+--------------2018-01-04 08:24:19.087000
+Overall Accuracy is 96.90
+
+
+--------------2018-01-04 08:25:01.147000
+Overall Accuracy is 96.90
+
+
+--------------2018-01-04 08:27:58.722000
+Overall Accuracy is 96.90
+
+Stage: Sleep stage W
+   Accuracy: 96.90
+   Sensitivity: 97.76
+   Specificity: 95.63
+   Precision: 97.08
+   True Positive: 58.42
+   True Negative: 38.48
+   False Negative: 1.34
+   False Positive: 1.76
+
+
+--------------2018-01-04 08:31:55.657000
+Overall Accuracy is 96.93
+
+Stage: Sleep stage W
+   Accuracy: 96.93
+   Sensitivity: 97.75
+   Specificity: 95.72
+   Precision: 97.13
+   True Positive: 58.41
+   True Negative: 38.52
+   False Negative: 1.35
+   False Positive: 1.72
+
+
+--------------2018-01-04 08:31:56.026000
+Overall Accuracy is 59.76
+
+Stage: Sleep stage W
+   Accuracy: 59.76
+   Sensitivity: 100.00
+   Specificity: 0.00
+   Precision: 59.76
+   True Positive: 59.76
+   True Negative: 0.00
+   False Negative: 0.00
+   False Positive: 40.24
+
+
+--------------2018-01-04 08:37:42.038000
+Overall Accuracy is 96.97
+Stage: Sleep stage W
+   Accuracy: 96.97
+   Sensitivity: 97.82
+   Specificity: 95.71
+   Precision: 97.13
+   True Positive: 58.46
+   True Negative: 38.51
+   False Negative: 1.30
+   False Positive: 1.73
+
+
+--------------2018-01-04 08:37:42.385000
+Overall Accuracy is 59.76
+Stage: Sleep stage W
+   Accuracy: 59.76
+   Sensitivity: 100.00
+   Specificity: 0.00
+   Precision: 59.76
+   True Positive: 59.76
+   True Negative: 0.00
+   False Negative: 0.00
+   False Positive: 40.24
+
+
+--------------2018-01-04 08:38:25.495000
+Overall Accuracy is 99.27
+Stage: Sleep stage W
+   Accuracy: 99.27
+   Sensitivity: 99.24
+   Specificity: 99.32
+   Precision: 99.54
+   True Positive: 59.30
+   True Negative: 39.97
+   False Negative: 0.46
+   False Positive: 0.27
+
+
+--------------2018-01-04 08:39:32.322000
+Overall Accuracy is 96.92
+Stage: Sleep stage W
+   Accuracy: 96.92
+   Sensitivity: 97.82
+   Specificity: 95.58
+   Precision: 97.05
+   True Positive: 58.45
+   True Negative: 38.46
+   False Negative: 1.31
+   False Positive: 1.78
+
+
+--------------2018-01-04 08:39:32.667000
+Overall Accuracy is 59.76
+Stage: Sleep stage W
+   Accuracy: 59.76
+   Sensitivity: 100.00
+   Specificity: 0.00
+   Precision: 59.76
+   True Positive: 59.76
+   True Negative: 0.00
+   False Negative: 0.00
+   False Positive: 40.24
+
+
+--------------2018-01-04 08:41:16.102000
+Overall Accuracy is 99.28
+Stage: Sleep stage W
+   Accuracy: 99.28%
+   Sensitivity: 99.25%
+   Specificity: 99.33%
+   Precision: 99.54%
+   True Positive: 59.31%
+   True Negative: 39.97%
+   False Negative: 0.45%
+   False Positive: 0.27%
+
+
+--------------2018-01-04 08:42:21.629000
+Overall Accuracy is 96.90
+Stage: Sleep stage W
+   Accuracy: 96.90%
+   Sensitivity: 97.75%
+   Specificity: 95.64%
+   Precision: 97.08%
+   True Positive: 58.42%
+   True Negative: 38.48%
+   False Negative: 1.35%
+   False Positive: 1.76%
+
+
+--------------2018-01-04 08:42:21.969000
+Overall Accuracy is 59.76
+Stage: Sleep stage W
+   Accuracy: 59.76%
+   Sensitivity: 100.00%
+   Specificity: 0.00%
+   Precision: 59.76%
+   True Positive: 59.76%
+   True Negative: 0.00%
+   False Negative: 0.00%
+   False Positive: 40.24%
+
+
+--------------2018-01-04 08:45:10.730000
+Overall Accuracy is 99.29
+Stage: Sleep stage W
+   Accuracy: 99.29%
+   Sensitivity: 99.22%
+   Specificity: 99.39%
+   Precision: 99.59%
+   True Positive: 59.29%
+   True Negative: 40.00%
+   False Negative: 0.47%
+   False Positive: 0.24%
+
+
+--------------2018-01-04 08:46:17.233000
+Overall Accuracy is 96.97
+Stage: Sleep stage W
+   Accuracy: 96.97%
+   Sensitivity: 97.86%
+   Specificity: 95.66%
+   Precision: 97.10%
+   True Positive: 58.48%
+   True Negative: 38.49%
+   False Negative: 1.28%
+   False Positive: 1.75%
+
+
+--------------2018-01-04 08:46:17.570000
+Overall Accuracy is 59.76
+Stage: Sleep stage W
+   Accuracy: 59.76%
+   Sensitivity: 100.00%
+   Specificity: 0.00%
+   Precision: 59.76%
+   True Positive: 59.76%
+   True Negative: 0.00%
+   False Negative: 0.00%
+   False Positive: 40.24%
+
+
+--------------2018-01-04 08:47:15.659000
+Overall Accuracy is 94.31
+Stage: Sleep stage W
+   Accuracy: 94.31%
+   Sensitivity: 94.25%
+   Specificity: 94.40%
+   Precision: 96.15%
+   True Positive: 56.33%
+   True Negative: 37.99%
+   False Negative: 3.43%
+   False Positive: 2.25%
+
+
+--------------2018-01-04 08:47:18.310000
+Overall Accuracy is 99.28
+Stage: Sleep stage W
+   Accuracy: 99.28%
+   Sensitivity: 99.24%
+   Specificity: 99.33%
+   Precision: 99.55%
+   True Positive: 59.30%
+   True Negative: 39.97%
+   False Negative: 0.46%
+   False Positive: 0.27%
+
+
+--------------2018-01-04 08:48:25.974000
+Overall Accuracy is 96.96
+Stage: Sleep stage W
+   Accuracy: 96.96%
+   Sensitivity: 97.82%
+   Specificity: 95.69%
+   Precision: 97.12%
+   True Positive: 58.46%
+   True Negative: 38.51%
+   False Negative: 1.30%
+   False Positive: 1.73%
+
+
+--------------2018-01-04 08:48:26.318000
+Overall Accuracy is 59.76
+Stage: Sleep stage W
+   Accuracy: 59.76%
+   Sensitivity: 100.00%
+   Specificity: 0.00%
+   Precision: 59.76%
+   True Positive: 59.76%
+   True Negative: 0.00%
+   False Negative: 0.00%
+   False Positive: 40.24%
+
+
+--------------2018-01-04 08:49:02.261000
+Overall Accuracy is 94.57
+Stage: Sleep stage W
+   Accuracy: 94.57%
+   Sensitivity: 94.75%
+   Specificity: 94.31%
+   Precision: 96.11%
+   True Positive: 56.62%
+   True Negative: 37.95%
+   False Negative: 3.14%
+   False Positive: 2.29%
+
+
+--------------2018-01-04 08:49:02.575000
+Overall Accuracy is 67.69
+Stage: Sleep stage W
+   Accuracy: 67.69%
+   Sensitivity: 84.40%
+   Specificity: 42.88%
+   Precision: 68.69%
+   True Positive: 50.44%
+   True Negative: 17.25%
+   False Negative: 9.32%
+   False Positive: 22.99%
+
+
+--------------2018-01-04 08:49:05.161000
+Overall Accuracy is 99.29
+Stage: Sleep stage W
+   Accuracy: 99.29%
+   Sensitivity: 99.19%
+   Specificity: 99.43%
+   Precision: 99.61%
+   True Positive: 59.28%
+   True Negative: 40.01%
+   False Negative: 0.48%
+   False Positive: 0.23%
+
+
+--------------2018-01-04 08:50:12.307000
+Overall Accuracy is 97.03
+Stage: Sleep stage W
+   Accuracy: 97.03%
+   Sensitivity: 97.82%
+   Specificity: 95.85%
+   Precision: 97.22%
+   True Positive: 58.46%
+   True Negative: 38.57%
+   False Negative: 1.30%
+   False Positive: 1.67%
+
+
+--------------2018-01-04 08:50:12.654000
+Overall Accuracy is 59.76
+Stage: Sleep stage W
+   Accuracy: 59.76%
+   Sensitivity: 100.00%
+   Specificity: 0.00%
+   Precision: 59.76%
+   True Positive: 59.76%
+   True Negative: 0.00%
+   False Negative: 0.00%
+   False Positive: 40.24%
+
+
+--------------2018-01-04 08:51:58.435000
+Overall Accuracy is 94.25
+Stage: Sleep stage W
+   Accuracy: 94.25%
+   Sensitivity: 94.56%
+   Specificity: 93.79%
+   Precision: 95.77%
+   True Positive: 56.51%
+   True Negative: 37.74%
+   False Negative: 3.25%
+   False Positive: 2.50%
+
+
+--------------2018-01-04 08:51:58.664000
+Overall Accuracy is 67.55
+Stage: Sleep stage W
+   Accuracy: 67.55%
+   Sensitivity: 84.40%
+   Specificity: 42.52%
+   Precision: 68.56%
+   True Positive: 50.44%
+   True Negative: 17.11%
+   False Negative: 9.32%
+   False Positive: 23.13%
+
+
+--------------2018-01-04 08:52:01.136000
+Overall Accuracy is 99.38
+Stage: Sleep stage W
+   Accuracy: 99.38%
+   Sensitivity: 99.30%
+   Specificity: 99.49%
+   Precision: 99.66%
+   True Positive: 59.34%
+   True Negative: 40.04%
+   False Negative: 0.42%
+   False Positive: 0.20%
+
+
+--------------2018-01-04 08:53:41.630000
+Overall Accuracy is 96.95
+Stage: Sleep stage W
+   Accuracy: 96.95%
+   Sensitivity: 97.70%
+   Specificity: 95.83%
+   Precision: 97.21%
+   True Positive: 58.39%
+   True Negative: 38.56%
+   False Negative: 1.37%
+   False Positive: 1.68%
+
+
+--------------2018-01-04 08:53:41.960000
+Overall Accuracy is 59.76
+Stage: Sleep stage W
+   Accuracy: 59.76%
+   Sensitivity: 100.00%
+   Specificity: 0.00%
+   Precision: 59.76%
+   True Positive: 59.76%
+   True Negative: 0.00%
+   False Negative: 0.00%
+   False Positive: 40.24%
